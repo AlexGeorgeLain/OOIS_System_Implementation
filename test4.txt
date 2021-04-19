@@ -1,0 +1,11 @@
+vendor
+n
+newvendor123
+catalogue
+add
+newproduct
+45.60
+123
+w123
+catalogue
+end

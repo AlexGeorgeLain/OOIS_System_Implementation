@@ -1,0 +1,26 @@
+vendor
+y
+vendor123
+catalogue
+add
+newproduct
+123.45
+456
+abc123
+catalogue
+remove
+14
+catalogue
+stock
+13
+100
+catalogue
+orders
+order detail
+1
+order status
+1
+shipped
+orders
+commands
+end

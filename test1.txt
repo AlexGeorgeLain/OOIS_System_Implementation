@@ -1,0 +1,27 @@
+customer
+y
+testuser
+all
+search
+apple
+add
+1
+2
+add
+5
+4
+basket
+remove
+1
+basket
+commands
+checkout
+n
+new address
+y
+standard
+n
+third party
+y
+y
+cancel
